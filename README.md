@@ -16,6 +16,6 @@ In part b, it repeats part a for the oral health and dentition data and in part 
 [link to commit history](https://github.com/Katrina9805/Stats507/commits/main)
 [link to commit history 2](https://github.com/Katrina9805/Stats507/commits/main)
 
-link to pd_topic_ranyan: [pd_topic_ranyan.py](./pandas.notes/pd_topic_ranyan.py)
+link to pd_topic_ranyan: [pd_topic_ranyan.py](./pandas_notes/pd_topic_ranyan.py)
 
 
