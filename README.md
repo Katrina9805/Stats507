@@ -14,5 +14,6 @@ In part b, it repeats part a for the oral health and dentition data and in part 
 
 
 [link to commit history](https://github.com/Katrina9805/Stats507/commits/main)
+[link to commit history 2](https://github.com/Katrina9805/Stats507/commits/main)
 
 
