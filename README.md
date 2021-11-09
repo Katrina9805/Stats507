@@ -19,3 +19,26 @@ In part b, it repeats part a for the oral health and dentition data and in part 
 link to pd_topic_ranyan: [pd_topic_ranyan.py](./pandas_notes/pd_topic_ranyan.py)
 
 
+Steps:
+1. Create the repository in github and clone the repository to desktop by: git clone https://github.com/Katrina9805/Stats507
+Part 1
+1. create python file for code from PS2, Question 3: git add PS2_Q3.py
+1. git commit -a -m "add PS2 description"
+1. git push
+Part 2
+1. git vim README.md
+1. git commit -a -m "add local path"
+Part 3
+1. git commit -a -m "edit link"
+1. git push
+Part 4
+1. git branch ps4
+1. git checkout ps4
+1. vim PS2_Q3.py
+1. git commit -a -m "include variable gender"
+1. git push -u origin ps4
+1. git checkout main
+1. git merge ps4
+1. vim README.md 
+1. git commit -a -m "Question 1 part 5"
+1. git push
